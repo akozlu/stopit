@@ -53,6 +53,5 @@ setup(name='stopit',
       license='GPLv3',
       packages=find_packages('src'),
       package_dir={'': 'src'},
-      test_suite='tests.suite',
       zip_safe=False
       )
